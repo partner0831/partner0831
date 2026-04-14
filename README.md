@@ -17,7 +17,7 @@ I specialize in Front End Web Engineer & Blockchain Engineer. Currently, I am op
     <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" width="90"> Python </td>  
     <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/mysql-18-1174938.png" width="90"> MySQL</td>    
 <td style="border: none;">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/golang-2752208-2285025.png" width="90"> Go
+  <img src="https://blog.golang.org/gopher/gopher.png" width="90"> Go
 </td>
                          
    </tr>
